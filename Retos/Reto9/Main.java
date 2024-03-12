@@ -8,7 +8,6 @@ public class Main {
          * - Debes buscar la definición de cada uno de estos términos.
          * Heterograma -> Un heterograma es una palabra o frase que no contiene ninguna letra repetida
          * Isograma -> es una palabra o frase en la que cada letra aparece el mismo número de veces
-         * Pangrama -> es una frase en la que aparecen todas las letras del abecedario
          */
 
         System.out.println("Introduce el texto a comprobar");
